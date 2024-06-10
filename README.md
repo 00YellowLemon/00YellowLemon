@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @00YellowLemon
 - 👀 I love to see diversity
 - 🌱 I’m currently learning prompting
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
 - 😄 Pronouns: UI / UX
 - ⚡ Fun fact: I think I am an alien
 
